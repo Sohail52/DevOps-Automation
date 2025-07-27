@@ -1,6 +1,4 @@
----
 
-```markdown
 # 🚀 DevOps Flask App Deployment using GitHub Actions & EC2
 
 This project demonstrates a complete CI/CD pipeline where a **Flask application** is automatically deployed to an **AWS EC2 instance** using **GitHub Actions** whenever changes are pushed to the `main` branch.
