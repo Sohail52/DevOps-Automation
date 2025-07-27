@@ -149,3 +149,31 @@ http://<EC2-PUBLIC-IP>:5001
 Make sure port `5001` is open in your EC2 Security Group (inbound rule).
 
 ---
+
+## 💡 Future Enhancements
+
+* [ ] NGINX Reverse Proxy + Port 80
+* [ ] Custom domain with HTTPS (SSL)
+* [ ] Telegram / Slack deployment alerts
+* [ ] Dockerize the app and deploy via ECS or Kubernetes
+
+---
+
+## 🤝 Author
+
+**Syed Sohail Mehmood**
+💼 Aspiring DevOps Engineer | Cloud | Automation
+🔗 [LinkedIn](https://linkedin.com/in/sohail52)
+📫 [ssohailm07@gmail.com](mailto:ssohailm07@gmail.com)
+
+---
+
+## 🏁 Final Result
+
+✅ CI/CD working via GitHub Actions
+✅ Flask app auto-deploys to EC2
+✅ Visible live on: `http://<your-ec2-ip>:5001`
+```
+
+---
+
