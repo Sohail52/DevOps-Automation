@@ -1,5 +1,3 @@
-Absolutely bro! Here's a **clean, professional, and powerful `README.md`** file for your **DevOps Flask Deployment Project** using **GitHub Actions + EC2** 🚀🔥
-
 ---
 
 ```markdown
